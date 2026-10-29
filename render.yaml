@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: turkce-alistirmalar
+    runtime: static
+    staticPublishPath: .
